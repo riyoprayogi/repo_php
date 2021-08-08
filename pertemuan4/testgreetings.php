@@ -36,3 +36,4 @@ function salam($waktu = "Datang", $nama = "Admin") {
   <h1><?php echo salam("","Riyo!"); ?></h1>
 </body>
 </html>
+
